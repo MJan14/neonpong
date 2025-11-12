@@ -12,7 +12,7 @@ A simple and fun **Neon Pong** game made in **Wick Editor**.
 - Two-player mode  
 
 ## How to Run
-1. Open the https://mjan14.github.io/neonpong/ file in your browser.  
+1. Open the https://mjan14.github.io/neonpong/ link in your browser.  
 2. Start playing immediately!  
 
 ## Notes
